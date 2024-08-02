@@ -6,7 +6,7 @@ This repository conatains project assesement code for the javascript course unde
 
 - This javascript file contains mainly 3 functions
 - ListNFT
-- MintNFT
+- MintNFt
 - getTotalSupply
 
 
